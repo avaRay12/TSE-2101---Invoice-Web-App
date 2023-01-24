@@ -1,0 +1,17 @@
+To run the website you need to:
+
+1.) Install the proejct
+2.) Get into the myproject directory
+3.) type the env/Scripts/activate into terminal
+4.) type the python manage.py runserver into terminal
+That all
+
+Users in the project
+
+username: Root, password: aaa11111
+username: Salesman, password: aaa11111
+username: Manager, password: aaa11111
+username: Courier, password: aaa11111
+username: Finance_Officer, password: P1a2ro3l 
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
